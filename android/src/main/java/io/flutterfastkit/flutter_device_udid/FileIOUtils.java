@@ -1,4 +1,4 @@
-package exchange.sgp.flutter_device_udid;
+package io.flutterfastkit.flutter_device_udid;
 
 import java.io.BufferedReader;
 import java.io.BufferedWriter;

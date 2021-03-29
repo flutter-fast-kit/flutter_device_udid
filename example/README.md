@@ -1,6 +1,6 @@
-# flutter_device_udid_example
+# example
 
-Demonstrates how to use the flutter_device_udid plugin.
+A new Flutter project.
 
 ## Getting Started
 

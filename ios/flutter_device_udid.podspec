@@ -9,9 +9,9 @@ Pod::Spec.new do |s|
   s.description      = <<-DESC
 获取设备唯一标识.
                        DESC
-  s.homepage         = 'http://192.168.1.37/aitd-hurong/sgp-flutter/flutter_device_udid'
+  s.homepage         = 'https://github.com/flutter-fast-kit/flutter_device_udid'
   s.license          = { :file => '../LICENSE' }
-  s.author           = { 'SGP Exchange' => 'lunnnnul@gmail.com' }
+  s.author           = { 'lunnnnul' => 'lunnnnul@gmail.com' }
   s.source           = { :path => '.' }
   s.source_files = 'Classes/**/*'
   s.public_header_files = 'Classes/**/*.h'

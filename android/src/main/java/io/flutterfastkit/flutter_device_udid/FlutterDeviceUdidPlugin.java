@@ -1,4 +1,4 @@
-package exchange.sgp.flutter_device_udid;
+package io.flutterfastkit.flutter_device_udid;
 
 import android.app.Activity;
 
